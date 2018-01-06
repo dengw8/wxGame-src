@@ -1,0 +1,11 @@
+{
+	"deviceOrientation": "portrait",
+	"pages": ["index"],
+	"subContext": "subContext",
+	"networkTimeout": {
+        "request": 8000,
+        "connectSocket": 8000,
+        "uploadFile": 8000,
+        "downloadFile": 8000
+    }
+}

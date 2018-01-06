@@ -1,0 +1,292 @@
+{
+    "total_size": 1914881, 
+    "file_map": {
+        "res/wx/GameMenuLayer.json": [
+            "72447524d208b141040f305854a75389", 
+            9951, 
+            "14860"
+        ], 
+        "res/wx/PlayerStoreBar.json": [
+            "f305cc1fb43bd286e556a0db3270e49f", 
+            4271, 
+            "14824"
+        ], 
+        "res/wx/ChessManAni/redMa.json": [
+            "0222778b1930ed6e460fa85fcea75005", 
+            24117, 
+            "14824"
+        ], 
+        "res/wx/common/font/C_Font_ButtonText_StyleBlack.png": [
+            "952218bc0b7abdb932b4ea8e925bd284", 
+            25896, 
+            "14824"
+        ], 
+        "res/wx/PlayerInfoPanel.json": [
+            "ea36010eb0fb71c435d18f981075c6c9", 
+            18443, 
+            "14833"
+        ], 
+        "res/wx/sound/goerror.mp3": [
+            "0fef8b0ef4e46d8891ccbcb8b1a814b1", 
+            4341, 
+            "14496"
+        ], 
+        "res/wx/ChessBoardAni/ChessBoardAni.plist": [
+            "f4fe2ad86e52eef096d1ff847b6d752c", 
+            9644, 
+            "14522"
+        ], 
+        "res/wx/common/bg/Common_Bg_Main.jpg": [
+            "1cc29a0f6c5cfedeb4e70038da81cac7", 
+            20689, 
+            "14409"
+        ], 
+        "res/wx/common/font/C_Font_ButtonText_StyleWood_Black.png": [
+            "d35fb04be8a08e13ab77388965a37f23", 
+            137244, 
+            "14862"
+        ], 
+        "res/wx/common/font/C_Font_ButtonText_StyleWood_Green.fnt": [
+            "bf8ad06d7485af53e7a15966175d5b5e", 
+            10534, 
+            "14409"
+        ], 
+        "res/wx/ChessBoard.png": [
+            "9026b4b25edbc012ba637170c4cbd931", 
+            131990, 
+            "14862"
+        ], 
+        "res/wx/ChessManAni/blackXiang.json": [
+            "582036afcb79b5fc5b17f2ebb59e0cc8", 
+            24182, 
+            "14824"
+        ], 
+        "res/wx/ChessManAni/blackBing.json": [
+            "d5d0194ed1120266a566f1f4385b1aa2", 
+            24150, 
+            "14824"
+        ], 
+        "res/wx/ChessManAni/redShi.json": [
+            "11f02ff79be4f81e602c273b91ac280a", 
+            24128, 
+            "14824"
+        ], 
+        "res/wx/Main.png": [
+            "c11f2b25923597e0c50d1a8379e9bd4a", 
+            222870, 
+            "14862"
+        ], 
+        "res/wx/PlayerHeaderBox.json": [
+            "427f55af80f9d62d4f1329f9e622cc9c", 
+            4384, 
+            "14824"
+        ], 
+        "res/wx/HomeScene.json": [
+            "f67bf020b6208dcf9027a8f17dbc622e", 
+            18194, 
+            "14860"
+        ], 
+        "res/wx/ChessBoardAni/JiangJun.json": [
+            "76c5a888e346d9e97273c3b41fff371d", 
+            8141, 
+            "14824"
+        ], 
+        "res/wx/SettingScene.json": [
+            "d2be280585e903d7aae33f5bf15d07d4", 
+            11501, 
+            "14833"
+        ], 
+        "res/wx/ChessManAni/ChessMan.png": [
+            "00146bebd22becea2a40d514a0ecf545", 
+            296905, 
+            "14862"
+        ], 
+        "res/wx/sound/select.mp3": [
+            "96e58028bbb4a27580fb9add292d9f14", 
+            3385, 
+            "14496"
+        ], 
+        "res/wx/ChessManAni/blackShuai.json": [
+            "b3708d898f8f411af86cc8f497328cec", 
+            24182, 
+            "14824"
+        ], 
+        "res/wx/PvpGameScene.json": [
+            "3c4318e37c6768101a0f3a8eaa143094", 
+            26938, 
+            "14833"
+        ], 
+        "res/wx/ChessManAni/ChessMan.plist": [
+            "cc739162e5f35e6f605a81de5cefcadf", 
+            31473, 
+            "14522"
+        ], 
+        "res/wx/ChessManAni/redXiang.json": [
+            "d822317f2a12923b75e73d2b7879ceb3", 
+            24142, 
+            "14824"
+        ], 
+        "res/wx/common/font/C_Font_ButtonText_StyleWood_Black.fnt": [
+            "b7faf79339ec46536bc7d29b407a0699", 
+            16797, 
+            "14409"
+        ], 
+        "res/wx/ChessManAni/blackShi.json": [
+            "52ff024ecc92936357389bd8f6b6073c", 
+            24151, 
+            "14824"
+        ], 
+        "res/wx/ChessBoardAni/ChessBoardAni.png": [
+            "94256642aea9b27cb644b242ff4213ed", 
+            191234, 
+            "14862"
+        ], 
+        "res/wx/ChessManAni/redPao.json": [
+            "9e09814a4a8b01a83697fdda46409c0c", 
+            24150, 
+            "14824"
+        ], 
+        "res/wx/sound/Man_jiangjun.mp3": [
+            "6de6d497b340b0d0472b7ed80db45e5e", 
+            5101, 
+            "14496"
+        ], 
+        "res/wx/ChessManAni/blackJu.json": [
+            "07e29d7d145d84a1de596b6acd299efa", 
+            24141, 
+            "14824"
+        ], 
+        "res/wx/sound/eat.mp3": [
+            "09f462317cf403b803094a6649a07a67", 
+            3660, 
+            "14496"
+        ], 
+        "res/wx/sound/gamelose.mp3": [
+            "3413cd67786b4ae4367f4ab760c693ad", 
+            16787, 
+            "14496"
+        ], 
+        "res/wx/ChessManAni/redBing.json": [
+            "6473e46918fe944cbb46e07c59bdd76e", 
+            24149, 
+            "14824"
+        ], 
+        "res/wx/HelpScene.json": [
+            "130bd7aaa2fad63f044da12c4f9df334", 
+            8204, 
+            "14833"
+        ], 
+        "res/wx/CommonLoadingBox.json": [
+            "7745ba8bc6685d0940db22415a326305", 
+            1458, 
+            "14824"
+        ], 
+        "res/wx/sound/alarm.mp3": [
+            "245a61c3678fb1f391a00113cce9bba3", 
+            3456, 
+            "14496"
+        ], 
+        "res/wx/sound/gamewin.mp3": [
+            "d9c98087edd55b0995e4255d3d3477e6", 
+            24237, 
+            "14496"
+        ], 
+        "res/wx/ChessManAni/shader.json": [
+            "4d79e815f2b2672bebc76f8b2132bd05", 
+            16005, 
+            "14824"
+        ], 
+        "res/wx/common/font/C_Font_ButtonText_StyleWood_Green.png": [
+            "b0b0eb025e0be6f49c40866c6b4e373c", 
+            95435, 
+            "14862"
+        ], 
+        "res/wx/CommonDialog.json": [
+            "86e212742d1d091d48a0c54818889a0a", 
+            9490, 
+            "14824"
+        ], 
+        "res/wx/RuleScene.json": [
+            "f20868435fa13c634fd1dfb079d8da8d", 
+            14243, 
+            "14833"
+        ], 
+        "res/wx/ChessManAni/redJu.json": [
+            "3fd54eef38fee1b6d8b46fe8ad567704", 
+            24122, 
+            "14824"
+        ], 
+        "res/wx/ChessBoardAni/Chiex.json": [
+            "973d36b35224108f1054912ab9bac018", 
+            9512, 
+            "14824"
+        ], 
+        "res/wx/ChessManAni/blackMa.json": [
+            "4cf7b517bb19b12d0e8276a38fdf54f8", 
+            24148, 
+            "14824"
+        ], 
+        "res/wx/sound/go.mp3": [
+            "069cfd8b0cb7e8ed6e3f86f3abbdeb0e", 
+            5521, 
+            "14496"
+        ], 
+        "res/wx/ChessManAni/redShuai.json": [
+            "86eebe6634d5da6f60787b7c3af9ffb3", 
+            24149, 
+            "14824"
+        ], 
+        "res/wx/GameOverLayer.json": [
+            "e296af3dcff78842653d5ef871d15008", 
+            31313, 
+            "14833"
+        ], 
+        "res/wx/sound/Woman_jiangjun.mp3": [
+            "37b6396d05eca4a06d1b000d86674566", 
+            5779, 
+            "14496"
+        ], 
+        "res/wx/common/font/C_Font_ButtonText_StyleBlack.fnt": [
+            "40fa5080b7fdf12356dbd53ac5d659ff", 
+            15748, 
+            "14409"
+        ], 
+        "res/wx/ChessManAni/blackPao.json": [
+            "5a0a6cd079d753f496e50726a54a1685", 
+            24156, 
+            "14824"
+        ], 
+        "res/wx/ChessBoard.plist": [
+            "423ee94c816d324c627db4c7d5eb5874", 
+            2063, 
+            "14639"
+        ], 
+        "res/wx/Main.plist": [
+            "f8ea3abc8e73b16eb876ec5d6a010a7e", 
+            18793, 
+            "14609"
+        ], 
+        "res/wx/PvpPlayerPanel.json": [
+            "8e4b02f108185a1805c833f7dfa4b526", 
+            6710, 
+            "14824"
+        ], 
+        "res/wx/ChessBoardAni/Juesa.json": [
+            "024d6f1672b2a2357e79c2cc9f980cf4", 
+            18933, 
+            "14824"
+        ], 
+        "res/wx/ChessManAni/body.json": [
+            "bf4cc99eb64a13095585da328135bd93", 
+            56665, 
+            "14824"
+        ], 
+        "res/wx/CommonFloatTips.json": [
+            "b9a6ddf5991bdd9e811f743f81915685", 
+            2876, 
+            "14824"
+        ]
+    }, 
+    "svn_verison": "14862", 
+    "game_verison": "1.0.0"
+}

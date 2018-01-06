@@ -1,0 +1,43 @@
+{
+	"description": "项目配置文件。",
+	"setting": {
+		"urlCheck": true,
+		"es6": false,
+		"postcss": false,
+		"minified": false,
+		"newFeature": true
+	},
+	"compileType": "game",
+	"libVersion": "game",
+	"appid": "wxd3ae9f954fda16cc",
+	"projectname": "taptapmusic",
+	"svr": "",
+	"client": "",
+	"qcloudRoot": "",
+	"miniprogramRoot": "./",
+	"condition": {
+		"search": {
+			"current": -1,
+			"list": []
+		},
+		"conversation": {
+			"current": -1,
+			"list": []
+		},
+		"game": {
+			"current": -1,
+			"list": [
+				{
+					"id": 0,
+					"name": "围观",
+					"query": "live=1&gameId=18932361981802243&ticket=3i9hl1R5XDcnWYEhi-gqMLJhOiEMmhhRBtx6lpkeCA4&id=e_wFWXsvtfgurmV1_HHI9Q&level=0",
+					"scene": "1008"
+				}
+			]
+		},
+		"miniprogram": {
+			"current": -1,
+			"list": []
+		}
+	}
+}

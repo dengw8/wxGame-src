@@ -1,0 +1,181 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple Computer//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+	<dict>
+		<key>frames</key>
+		<dict>
+			<key>inner/jiazaidonghua/UI_jiazai10.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{241,89},{100,101}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{100,101}</string>
+			</dict>
+			<key>inner/jiazaidonghua/UI_jiazai11.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{345,89},{100,101}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{100,101}</string>
+			</dict>
+			<key>inner/jiazaidonghua/UI_jiazai5.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{2,176},{100,101}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{100,101}</string>
+			</dict>
+			<key>inner/jiazaidonghua/UI_jiazai6.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{106,176},{100,101}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{100,101}</string>
+			</dict>
+			<key>inner/jiazaidonghua/UI_jiazai7.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{210,194},{100,101}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{100,101}</string>
+			</dict>
+			<key>inner/jiazaidonghua/UI_jiazai8.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{2,281},{100,101}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{100,101}</string>
+			</dict>
+			<key>inner/jiazaidonghua/UI_jiazai9.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{106,281},{100,101}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{100,101}</string>
+			</dict>
+			<key>inner/jiazaidonghua/UI_jiazai1.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{314,194},{100,101}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{100,101}</string>
+			</dict>
+			<key>inner/jiazaidonghua/UI_jiazai4.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{210,299},{100,101}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{100,101}</string>
+			</dict>
+			<key>inner/imges/UI_danchuangbeijing.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{480,2},{30,30}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{30,30}</string>
+			</dict>
+			<key>inner/imges/UI_paijuneigongyong_queding.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{2,2},{235,83}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{235,83}</string>
+			</dict>
+			<key>inner/imges/UI_paijuneigongyong_quxiao.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{241,2},{235,83}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{235,83}</string>
+			</dict>
+			<key>inner/imges/UI_zhonglian.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{2,89},{235,83}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{235,83}</string>
+			</dict>
+			<key>inner/jiazai/jiazaibeijing.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{418,194},{63,61}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{63,61}</string>
+			</dict>
+		</dict>
+		<key>metadata</key>
+		<dict>
+			<key>format</key>
+			<integer>2</integer>
+			<key>textureFileName</key>
+			<string>inner.png</string>
+			<key>realTextureFileName</key>
+			<string>inner.png</string>
+			<key>size</key>
+			<string>{512,512}</string>
+		</dict>
+		<key>texture</key>
+		<dict>
+			<key>width</key>
+			<integer>512</integer>
+			<key>height</key>
+			<integer>512</integer>
+		</dict>
+	</dict>
+</plist>

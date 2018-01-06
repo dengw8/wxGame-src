@@ -1,0 +1,12 @@
+{
+  "showStatusBar": false,
+  "deviceOrientation": "portrait",
+  "networkTimeout": {
+    "request": 60000,
+    "connectSocket": 10000,
+    "uploadFile": 6000,
+    "downloadFile": 60000
+  },
+  "pages": ["index"],
+  "subContext": "third/subContext"
+}

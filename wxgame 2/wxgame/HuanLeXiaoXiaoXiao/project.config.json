@@ -1,0 +1,57 @@
+{
+	"description": "项目配置文件。",
+	"setting": {
+		"urlCheck": true,
+		"es6": false,
+		"postcss": false,
+		"minified": true,
+		"newFeature": true
+	},
+	"compileType": "mingganci",
+	"libVersion": "game",
+	"appid": "wx7a59aadcb728eca4",
+	"projectname": "CutyPetWx",
+	"condition": {
+		"search": {
+			"current": -1,
+			"list": []
+		},
+		"conversation": {
+			"current": -1,
+			"list": []
+		},
+		"game": {
+			"current": -1,
+			"list": [
+				{
+					"id": -1,
+					"name": "红包",
+					"query": "from=welfare&redpacid=100"
+				},
+				{
+					"id": -1,
+					"name": "群排行",
+					"query": "from=grouprank"
+				},
+				{
+					"id": 2,
+					"name": "限时奖励关卡",
+					"query": "from=timelevel&roomid=7016410787"
+				},
+				{
+					"id": -1,
+					"name": "邀请",
+					"query": "from=invite"
+				}
+			]
+		},
+		"mingganci": {
+			"currentL": -1,
+			"list": []
+		},
+		"miniprogram": {
+			"current": -1,
+			"list": []
+		}
+	}
+}

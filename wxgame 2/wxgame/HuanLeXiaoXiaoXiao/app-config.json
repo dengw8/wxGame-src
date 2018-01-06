@@ -1,0 +1,17 @@
+{
+    "deviceOrientation" : "portrait",
+    "showStatusBar" : false,
+    "networkTimeout": {
+        "request": 30000,
+        "connectSocket": 20000,
+        "uploadFile": 30000,
+        "downloadFile": 30000
+    },
+    "pages": ["index"],
+    "subContext": "src/subContext",
+    "actions": [
+      "invite",
+      "fight",
+      "send_gift"
+    ]
+}

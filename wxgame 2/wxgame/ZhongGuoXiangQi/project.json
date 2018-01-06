@@ -1,0 +1,20 @@
+{
+    "gameVersion": "1.4.6", 
+    "showFPS": false, 
+    "env": "release", 
+    "usePackageAudio": false, 
+    "usePackageResource": false, 
+    "frameRate": 30, 
+    "modules": [
+        "cocos2d", 
+        "cocostudio"
+    ], 
+    "publish": true, 
+    "_jsList": [], 
+    "registerSystemEvent": true, 
+    "project_type": "javascript", 
+    "debugMode": 1, 
+    "jsList": [], 
+    "renderMode": 0, 
+    "id": "myCanvas"
+}

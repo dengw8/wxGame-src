@@ -1,0 +1,9 @@
+{
+  "networkTimeout": {
+    "request": 10000,
+    "connectSocket": 20000,
+    "uploadFile": 60000,
+    "downloadFile": 60000
+  },
+  "pages": ["index"]
+}

@@ -1,0 +1,192 @@
+{
+    "total_size": 1335421, 
+    "file_map": {
+        "res/wx/confs/wx_reviewPanelSkin.json": [
+            "f69418c1285ac2cc3b2dbd19930c1f00", 
+            7367, 
+            "2938"
+        ], 
+        "res/wx/confs/wx_dataPanelSkin.json": [
+            "03fe1766fe84a77945028bf10751fc94", 
+            14665, 
+            "2938"
+        ], 
+        "res/wx/confs/playerWinEffect.json": [
+            "653abe5764f2a2c14e0859e282803c61", 
+            26450, 
+            "2938"
+        ], 
+        "res/wx/confs/wx_entryViewSkin.json": [
+            "e4ef9526104eb80c88a613b79ffeefb0", 
+            91002, 
+            "3035"
+        ], 
+        "res/wx/confs/wx_scorePanelSkin.json": [
+            "37105ffb08f49d1b2029d541685a74f1", 
+            21758, 
+            "2952"
+        ], 
+        "res/wx/confs/wx_shareItem.json": [
+            "c79debbfd2b8aa063502b738f4e03215", 
+            5760, 
+            "2938"
+        ], 
+        "res/wx/confs/wx_game.json": [
+            "aec4e8f79da1d1b3734e6049e05f94f4", 
+            147488, 
+            "3033"
+        ], 
+        "res/wx/zhujiemian/UI_kaishiyouxidi.png": [
+            "e24c9179debe7e5a7b1f114c5fb935c6", 
+            14861, 
+            "2938"
+        ], 
+        "res/wx/main.plist": [
+            "af76ea2f9363284e6542074abc009d0c", 
+            16728, 
+            "2934"
+        ], 
+        "res/wx/confs/wx_share.json": [
+            "90a908eef634d35d89d9abd3e13e2c2c", 
+            5223, 
+            "2938"
+        ], 
+        "res/wx/confs/wx_newGuideSkin.json": [
+            "3443ac7aec214d78a93fef65198892f2", 
+            3507, 
+            "2938"
+        ], 
+        "res/wx/confs/paiSkinS.json": [
+            "260c3344c67669d5aa781188eb75b47f", 
+            2517, 
+            "2938"
+        ], 
+        "res/wx/confs/wx_scoreItemSkin.json": [
+            "40de2e78cf936d24c245203907ee284f", 
+            11242, 
+            "2938"
+        ], 
+        "res/wx/poker.plist": [
+            "66ab71e22edebf444c09c8aa7bff4337", 
+            14838, 
+            "2372"
+        ], 
+        "res/wx/confs/wx_careerInfo.json": [
+            "c0a82817f24bd32b745a3de103343615", 
+            13814, 
+            "2938"
+        ], 
+        "res/wx/NoCompress.plist": [
+            "f29fcdc1055bcef67db6392ca861ec7f", 
+            6381, 
+            "2934"
+        ], 
+        "res/wx/main.png": [
+            "ace026865e84014a53e772e0c676f3e3", 
+            69799, 
+            "2997"
+        ], 
+        "res/wx/zhujiemian/UI_chuangjianfangjiandi.png": [
+            "0ef74605ed00c12c94411f88a038c834", 
+            10847, 
+            "2938"
+        ], 
+        "res/wx/confs/pokerStylePanelSkin.json": [
+            "1f4681feb766f4a5b7c77b74db55734d", 
+            7116, 
+            "2938"
+        ], 
+        "res/wx/confs/win.json": [
+            "cd0eb33874210b3f5e083dba278b0172", 
+            3370, 
+            "2938"
+        ], 
+        "res/wx/confs/playerSkin.json": [
+            "e1fb02b2b958cf0de0374beffdc0df67", 
+            8033, 
+            "2938"
+        ], 
+        "res/wx/confs/wx_friendTableCurGameItemSkin.json": [
+            "8a994438f6097de8a0c5d183d227989a", 
+            6108, 
+            "2938"
+        ], 
+        "res/wx/game.png": [
+            "b51d11799d966e57d486bdbba4b36307", 
+            158903, 
+            "2997"
+        ], 
+        "res/wx/xinshouyindao/UI_xinshouyindao.png": [
+            "c264732dfec7e9e174faecd5ab0d1ede", 
+            196014, 
+            "2938"
+        ], 
+        "res/wx/game.plist": [
+            "4e750c2a10c5ef7fd55675c96a498e97", 
+            25121, 
+            "2997"
+        ], 
+        "res/wx/paijunei/UI_paizhuo.png": [
+            "27d4f621cd40fc5cc390f20173c9980a", 
+            227009, 
+            "2671"
+        ], 
+        "res/wx/confs/friendTableBuyInPanel.json": [
+            "916721489d0b3b152187589d046b6988", 
+            11918, 
+            "2938"
+        ], 
+        "res/wx/NoCompress.png": [
+            "2874b0ab4240aed7aba628dc901ecf66", 
+            19711, 
+            "2934"
+        ], 
+        "res/wx/confs/wx_createPanelSkin.json": [
+            "a8fd9057895423e68fdd8aa61c31e769", 
+            35675, 
+            "2938"
+        ], 
+        "res/wx/confs/wx_detailInfoItemSkin.json": [
+            "d38d77c4e6293d628b84c26f302f1988", 
+            6049, 
+            "2997"
+        ], 
+        "res/wx/poker.png": [
+            "f618f88cd9a5595b496bbe20706f29cd", 
+            93968, 
+            "2997"
+        ], 
+        "res/wx/confs/wx_dragListLoadingSkin.json": [
+            "1f7b36f82c75be6bb23b507bcc827801", 
+            934, 
+            "2938"
+        ], 
+        "res/wx/confs/wx_detailInfoPanelSkin.json": [
+            "27429afb8d40e6ea36990d6e5eaa7761", 
+            19972, 
+            "2938"
+        ], 
+        "res/wx/confs/wx_careerInfoItem.json": [
+            "76310ea6cb1bb64a73a495a6ef6c07be", 
+            4621, 
+            "2938"
+        ], 
+        "res/wx/confs/wx_reviewItemSkinS.json": [
+            "32eb3b24b7bdcfa237560d4bb336caf7", 
+            13621, 
+            "2938"
+        ], 
+        "res/wx/confs/wx_headItem.json": [
+            "68e72b5bcff629af88afee50c5ad0e83", 
+            2017, 
+            "2938"
+        ], 
+        "res/wx/confs/playerInfoSkin.json": [
+            "eaecca61aa2c98fd8c940c1e048b740f", 
+            11014, 
+            "2938"
+        ]
+    }, 
+    "svn_verison": "3035", 
+    "game_verison": "1.0.0"
+}
